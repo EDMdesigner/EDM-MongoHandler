@@ -1,0 +1,25 @@
+{
+  "name": "edm-mongohandler",
+  "version": "0.0.0",
+  "description": "EDMdesigner's MongoHandler used in multiple projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EDMdesigner/EDM-MongoHandler.git"
+  },
+  "author": "EDMdesigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EDMdesigner/EDM-MongoHandler/issues"
+  },
+  "dependencies": {
+    "mongoose": "",
+    "async": "",
+    
+    "edm-errorlogger": ""
+  },
+  "homepage": "https://github.com/EDMdesigner/EDM-MongoHandler"
+}
