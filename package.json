@@ -1,6 +1,6 @@
 {
   "name": "edm-mongohandler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "EDMdesigner's MongoHandler used in multiple projects.",
   "main": "index.js",
   "scripts": {
