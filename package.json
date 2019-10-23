@@ -16,7 +16,7 @@
     "url": "https://github.com/EDMdesigner/EDM-MongoHandler/issues"
   },
   "dependencies": {
-    "mongoose": "5.7.1",
+    "mongoose": "5.7.6",
     "async": "",
     
     "edm-errorlogger": ""
