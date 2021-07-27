@@ -1,6 +1,6 @@
 {
-  "name": "edm-mongohandler",
-  "version": "0.0.10",
+  "name": "@EDMdesigner/edm-mongohandler",
+  "version": "0.0.11",
   "description": "EDMdesigner's MongoHandler used in multiple projects.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,6 @@
   "dependencies": {
     "mongoose": "5.7.1",
     "async": "",
-    
     "edm-errorlogger": ""
   },
   "homepage": "https://github.com/EDMdesigner/EDM-MongoHandler"
